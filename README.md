@@ -1,5 +1,4 @@
 # ASHTU
-Ashtu is an AI-powered smart healthcare platform designed to transform how patients access medical care while supporting sustainable smart cities through reduced travel, optimized resources, and predictive health technologies.
 🧠 ASHTU — AI Smart Healthcare Platform
 Ashtu is a next-generation digital healthcare platform that leverages artificial intelligence to redesign the patient journey and improve access to medical services.
 By intelligently guiding patients to the right doctor or service from the first attempt, Ashtu reduces unnecessary visits, minimizes travel, and helps lower carbon emissions — contributing to smarter and more sustainable cities.
